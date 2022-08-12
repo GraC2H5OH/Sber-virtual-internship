@@ -1,1 +1,1 @@
-# time-series-sber
+# time-series-practice
